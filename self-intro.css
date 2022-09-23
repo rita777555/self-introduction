@@ -1,0 +1,10 @@
+body {
+    background-color: #FFCCCC;
+  }
+  li {
+    list-style-type: disc;
+    margin: 10px;
+  }
+  a {
+    font-weight: bold;
+  }
